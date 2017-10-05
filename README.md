@@ -4,4 +4,3 @@ Since I wrote it as a Quick Win application, unfortunately it is MS Windows only
 
 Directions on how to use the programme can be found in the Manual directory.
 
-SYDNEY.bmp

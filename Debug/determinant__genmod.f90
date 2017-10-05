@@ -1,0 +1,10 @@
+        !COMPILER-GENERATED INTERFACE MODULE: Thu Jul 03 11:31:41 2014
+        MODULE DETERMINANT__genmod
+          INTERFACE 
+            SUBROUTINE DETERMINANT(MATRIX,DET,N)
+              INTEGER(KIND=4), INTENT(IN) :: N
+              REAL(KIND=8) :: MATRIX(N,N)
+              REAL(KIND=8) :: DET
+            END SUBROUTINE DETERMINANT
+          END INTERFACE 
+        END MODULE DETERMINANT__genmod

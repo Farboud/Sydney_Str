@@ -1,0 +1,23 @@
+
+ OUTPUT
+ ------
+
+
+ ELEMENT FORCES IN GLOBAL CO-ORDINATE SYSTEM ARE AS FOLLOWS: 
+ 
+
+    ELEM NUM.         X-AXIS FORCE (N)    Y-AXIS FORCE (N)     MOMENT (N.mm)
+ -------------------------------------------------------------------------------
+           1
+                      0.000000E+00        1.000000E+03        1.000000E+06
+                      0.000000E+00       -7.105427E-14        2.328306E-10
+ 
+
+ NODAL DISPLACEMENTS IN GLOBAL CO-ORDINATE SYSTEM ARE AS FOLLOWS: 
+ 
+
+ NODE NUM.         X DISP. (mm)        Y DISP. (mm)           ROTATION (RAD)
+ ---------------------------------------------------------------------------
+   1             0.000000E+00        0.000000E+00             0.000000E+00
+   2             0.000000E+00       -2.333333E+12            -5.000000E+08
+ ---------------------------------------------------------------------------
